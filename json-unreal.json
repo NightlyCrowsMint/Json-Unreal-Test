@@ -2,29 +2,29 @@
 "UserInfo": [
   {
     "UserId": "0",
-    "Firstname": "Ezzy",
-    "Surenamne": "Bardwell",
-    "PlayerDesc" : "Revived their cat and summoned an evil demon",
-    "MaxGold": "423",
-    "Team": "red"
+    "firstname": "Ezzy",
+    "surenamne": "Bardwell",
+    "playerDesc" : "Revived their cat and summoned an evil demon",
+    "maxGold": "423",
+    "team": "red"
   },
 
     {
     "UserId": "1",
-    "Firstname": "Richard",
-    "Surenamne": "Grayson",
-    "PlayerDesc" : "Working on a circus",
-    "MaxGold": "32",
-    "Team": "blue"
+    "firstname": "Richard",
+    "surenamne": "Grayson",
+    "playerDesc" : "Working on a circus",
+    "maxGold": "32",
+    "team": "blue"
   },
 
       {
     "UserId": "2",
-    "Firstname": "Qifrey",
-    "Surenamne": "Witch",
-    "PlayerDesc" : "Blind in one eye",
-    "MaxGold": "22",
-    "Team": "blue"
+    "firstname": "Qifrey",
+    "surenamne": "Witch",
+    "playerDesc" : "Blind in one eye",
+    "maxGold": "22",
+    "team": "blue"
   }
   
 ]
