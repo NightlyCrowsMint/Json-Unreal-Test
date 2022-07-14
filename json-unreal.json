@@ -1,0 +1,30 @@
+{
+"UserInfo": [
+  {
+    "UserId": "0",
+    "Firstname": "Ezzy",
+    "Surenamne": "Bardwell",
+    "PlayerDesc" : "Revived their cat and summoned an evil demon",
+    "MaxGold": "423",
+    "Team": "red"
+  },
+
+    {
+    "UserId": "1",
+    "Firstname": "Richard",
+    "Surenamne": "Grayson",
+    "PlayerDesc" : "Working on a circus",
+    "MaxGold": "32",
+    "Team": "blue"
+  },
+
+      {
+    "UserId": "2",
+    "Firstname": "Qifrey",
+    "Surenamne": "Witch",
+    "PlayerDesc" : "Blind in one eye",
+    "MaxGold": "22",
+    "Team": "blue"
+  }
+  
+]
